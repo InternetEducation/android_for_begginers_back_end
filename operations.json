@@ -3,14 +3,26 @@
     {
       "id": 0,
       "type": "INCOME",
-      "name": "Завтрак",
-      "amount": 100
+      "name": "Зарабатная плата",
+      "amount": 5000
     },
     {
       "id": 1,
       "type": "OUTCOME",
       "name": "Обед",
       "amount": 200
-    }
+    },    
+    {
+      "id": 2,
+      "type": "OUTCOME",
+      "name": "Такси",
+      "amount": 300
+    },
+    {
+      "id": 2,
+      "type": "OUTCOME",
+      "name": "Квартира",
+      "amount": 1400
+    },
   ]
 }
