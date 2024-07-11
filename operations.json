@@ -1,10 +1,12 @@
 {
   "operation": [
     {
+      "id": "0",
       "name": "Завтрак",
       "amount": 100
     },
     {
+      "id": "1",
       "name": "Обед",
       "amount": 200
     }
