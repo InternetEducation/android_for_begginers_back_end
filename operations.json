@@ -2,11 +2,13 @@
   "operation": [
     {
       "id": 0,
+      "type": "INCOME",
       "name": "Завтрак",
       "amount": 100
     },
     {
       "id": 1,
+      "type": "OUTCOME",
       "name": "Обед",
       "amount": 200
     }
