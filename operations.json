@@ -4,7 +4,7 @@
       "id": 0,
       "type": "INCOME",
       "name": "Зарабатная плата",
-      "amount": 5000
+      "amount": 50000
     },
     {
       "id": 1,
@@ -23,6 +23,36 @@
       "type": "OUTCOME",
       "name": "Квартира",
       "amount": 1400
+    },
+    {
+      "id": 4,
+      "type": "INCOME",
+      "name": "Премия",
+      "amount": 14000
+    },
+    {
+      "id": 5,
+      "type": "OUTCOME",
+      "name": "Завтрак",
+      "amount": 600
+    },
+    {
+      "id": 6,
+      "type": "OUTCOME",
+      "name": "Продуктовый магазин",
+      "amount": 3000
+    },
+    {
+      "id": 7,
+      "type": "OUTCOME",
+      "name": "Медицинские услуги",
+      "amount": 1000
+    },
+    {
+      "id": 8,
+      "type": "INCOME",
+      "name": "Подарок",
+      "amount": 2000
     }
   ]
 }
